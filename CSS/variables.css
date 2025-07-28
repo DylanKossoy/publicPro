@@ -1,0 +1,18 @@
+
+
+:root {
+
+    --font-primary: 'Space Grotesk', 'sans-serif';
+
+
+
+    --color-main-container: rgb(117, 117, 117);
+    --color-main-header-container: rgb(117, 117, 117);
+
+    --color-main-body-container: rgb(67, 66, 66);
+    --color-card: grey;
+    --color-search-input: rgb(76, 75, 75);
+    --color-project-container: rgba(0, 0, 0, 0.522);
+    --color-project-box: rgb(129, 129, 129);
+    --color-project-box-header: rgb(87, 86, 86);
+}

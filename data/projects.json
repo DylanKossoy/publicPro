@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Profile Beta Project",
+    "description": "This Project is actually a design I created when trying to create a hub for my projects. Now that I know more and admire simplicity, I decided to archive this project and build another. I created this project my sophmore year of college",
+    "video": "assets/videos/pfproto.mp4",
+    "image": "assets/images/ProjectFileSystem.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/ProfileBetaProject.git"
+
+  },
+  {
+    "name": "Space Messaging App",
+    "description": "This Project is the first project assigned for my Clien Dev class, Sophmore year of college. Learning vue framework and getting familiar with node and git I created a space themed site. The goal was to have a working sign in and join, all connected to a database with user info. Happy the way this assigment turned out, having able to private message users and message everyone. Along with that, users can search for eachother, able to logout, delete account, change user info. This familiarized me with posting and getting data from a database.",
+    "video": "assets/videos/spaceAppVid.mp4",
+    "image": "assets/images/ProjectSpace.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/SpaceMessagingApp.git"
+  },
+  {
+    "name": "PK WoodWorx",
+    "description": "A Project inspired by my dads prebuilt website. My website design class gave an assignment that motivated me to rebuild my dads woodworking site and make it more simplistic and user friendly. Using figma helped me created the idea for this site, now I use figma frequently.",
+    "video": "assets/videos/pkVid.mp4",
+    "image": "assets/images/ProjectPKWoodworx.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/PKWoodWorx.git"
+  },
+  {
+    "name": "NBA Basketball Project",
+    "description": "This Project is a NBA inspired app that includes betting players stats for a future game, selecting favorite players, favorite teams. Creating users and being able to log in while still having all your information. This was assignment 2 after my space project for Client Dev sophmore year of college.",
+    "video": "assets/videos/nba.mp4",
+    "image": "assets/images/ProjectNBA.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/NBA_APP.git"
+  },
+  {
+    "name": "Table Of Contents Site",
+    "description": "This Project is a web Design Project that I had to create a solid and cohesive webpage for table of contents and chapters 7, 8, and 9. Just a simple project to practice CSS",
+    "video": "assets/videos/TOCVid.mp4",
+    "image": "assets/images/TOC.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/TableOfContents.git"
+  },
+  {
+    "name": "Tic Tac Toe",
+    "description": "Simple Tic Tac Toe game project I created to better practice my code.",
+    "video": "assets/videos/TicTacToe.mp4",
+    "image": "assets/images/TTT.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/tictactoe.git"
+  },
+  {
+    "name": "Space Invader",
+    "description": "This project is inspired by @CHRIS COURSES on youtube to help me learn canvas on javascript and html.",
+    "video": "assets/videos/spaceInvaderVid.mp4",
+    "image": "assets/images/SpaceInvader.png",
+    "year": "2024",
+    "github": "https://github.com/DylanKossoy/SpaceInvader.git"
+  },
+  {
+    "name": "Memory Game",
+    "description": "Simple Memory Game I created and actually made for a youtube channel that just shows me typing out the code for the project. The link is at the bottom.",
+    "video": "assets/videos/memoryGame.mp4",
+    "image": "assets/images/MemoryGame.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/MemoryGame.git"
+  },
+  {
+    "name": "TICTACTOE",
+    "description": "Another simple tic tac toe created to challenge my logic problem solving skills. I was able to find a couple different ways to get the same result but I appreciate this project. ",
+    "video": "assets/videos/TTT.mp4",
+    "image": "assets/images/TICTAC.png",
+    "year": "2024",
+    "github": "https://github.com/DylanKossoy/tictactoe2.git"
+  },
+  {
+    "name": "Progress Bar",
+    "description": "Project bars are always so cool so I needed a tech inspired one",
+    "video": "assets/videos/progressBar.mp4",
+    "image": "assets/images/PBar.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/ProgressBar.git"
+  },
+  {
+    "name": "Grid Game",
+    "description": "This Project was inspired by past java projects I had done for old school assignments. I decided to recreate it using JS/CSS/HTML and make it more interactive opposed to the terminal one originally created.",
+    "video": "assets/videos/CSGame.mp4",
+    "image": "assets/images/gridGame.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/CSGridGame.git"
+  },
+  {
+    "name": "Public Projects Profile",
+    "description": "This Project was created to showcase all my finsihed projects that Ive worked on as well as providing background context to each individiual project",
+    "video": "assets/videos/pfPublic.mp4",
+    "image": "assets/images/publicPf.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/ProfileProjectsPublic.git"
+  },
+  {
+    "name": "Simple Calender",
+    "description": "This Project is a simple fiction inspired hud ui calender",
+    "video": "assets/videos/simpleCalender.mp4",
+    "image": "assets/images/calender.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/CalenderPractice.git"
+  },
+  {
+    "name": "Simple To Do List",
+    "description": "This Project is just a simple to do list",
+    "video": "assets/videos/toDoList.mp4",
+    "image": "assets/images/toDoList.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/ToDo.git"
+  },
+  {
+    "name": "Fiction UI",
+    "description": "This Project is inspired by most marvel movies ui scenes. wanted to practice making my own fictional user interface.",
+    "video": "assets/videos/fui.mp4",
+    "image": "assets/images/fui.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/fui.git"
+  },
+  {
+    "name": "Personal Portfolio",
+    "description": "just a simple project portfolio that has a authentication to get in and see the projects.",
+    "video": "assets/videos/personalPortfolio.mp4",
+    "image": "assets/images/personalPF.png",
+    "year": "2025",
+    "github": "#"
+  },
+  {
+    "name": "Notes App",
+    "description": "This project is a very organized coded notes app that just simply creates different notes and are able to have titles.",
+    "video": "assets/videos/notes.mp4",
+    "image": "assets/images/notes.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/NotesApp"
+  },
+  {
+    "name": "Public Profile",
+    "description": "This project is a very organzied public porfolio to showcase all projects",
+    "video": "assets/videos/pPF.mp4",
+    "image": "assets/images/pPF.png",
+    "year": "2025",
+    "github": ""
+  }
+
+
+
+]
