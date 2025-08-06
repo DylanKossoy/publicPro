@@ -142,7 +142,15 @@
     "video": "assets/videos/pPF.mp4",
     "image": "assets/images/pPF.png",
     "year": "2025",
-    "github": ""
+    "github": "https://github.com/DylanKossoy/publicPro"
+  },
+  {
+    "name": "Loading Animation",
+    "description": "just a simple loading animation design ive used in past projects",
+    "video": "assets/videos/loadingAnim.mp4",
+    "image": "assets/images/loadingAnimation.png",
+    "year": "2025",
+    "github": "https://github.com/DylanKossoy/loadingAnimation"
   }
 
 
