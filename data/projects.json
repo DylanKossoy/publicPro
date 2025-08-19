@@ -151,6 +151,14 @@
     "image": "assets/images/loadingAnimation.png",
     "year": "2025",
     "github": "https://github.com/DylanKossoy/loadingAnimation"
+  },
+  {
+    "name": "Calculator",
+    "description": "Simple calculator project to familiarize myself with proper logic and organization, also helped with my desgin practice",
+    "video": "assets/videos/calc.mp4",
+    "image": "assets/images/calc.png",
+    "abbr": "CAL",
+    "github": "https://github.com/DylanKossoy/Calculator"
   }
 
 
